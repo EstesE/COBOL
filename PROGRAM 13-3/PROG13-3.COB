@@ -3,7 +3,7 @@
       *
        PROGRAM-ID.    PROG13-3.
       *AUTHOR.        ERIC.
-      *INSTALATION.   WSC.
+      *INSTALLATION.   WSC.
       *DATE-WRITTEN.  FEB 26,2003.
       *DATE-COMPILED. FEB 26,2003.
       *SECURITY.      NONE.
